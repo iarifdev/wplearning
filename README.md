@@ -1,1 +1,1 @@
-# wplearning
+# WordPress Basic Learning Theme
